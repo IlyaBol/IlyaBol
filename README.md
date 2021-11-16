@@ -1,5 +1,5 @@
-### Hi there my name is Ilya 👋
-# I`m QA
+# Hi there my name is Ilya 👋
+## I`m QA Engineer
 ___
 - 🔭 I’m currently working on https://www.lanit.ru/
 - 🌱 I’m currently learning on https://qa.guru/
