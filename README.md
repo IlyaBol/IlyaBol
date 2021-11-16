@@ -1,6 +1,8 @@
 ### Hi there my name is Ilya 👋
 #### I`m QA
 
+- 🔭 I’m currently working on https://www.lanit.ru/
+- 🌱 I’m currently learning on https://qa.guru/
 <!--
 **IlyaBol/IlyaBol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
